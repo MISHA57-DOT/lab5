@@ -1,0 +1,6 @@
+name=input("enter your name:")
+age=int(input("enter your age:"))
+program=input("enter your program:")
+marks=int(input("enter your marks:"))
+tuple=(name,age,program,marks)
+print(tuple)
